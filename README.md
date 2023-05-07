@@ -19,7 +19,7 @@ Pégala dentro de **config.py**.
 ## Instalación Dependencias
 ### Clonar Repositorio
 ```markdown
-git clone https://github.com/
+git clone https://github.com/HAME-RU/Alice.git
 cd Alice
 ```
 ### Instalar librerias Python
