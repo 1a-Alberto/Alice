@@ -13,9 +13,7 @@ La palabra de activación es **Alice** seguido de lo que quieres preguntar. Por 
 * **Salir** (Esta palabra cierra la ejecución del programa.)
 
 # Instalación
-## Añade la API de CHAT-GPT a Alice.
-Pégala dentro de **config.py**.
-
+Añade la api de  CHAT-GPT a Alice y pegala dentro del archivo **config.py**.
 ## Instalación Dependencias
 ### Clonar Repositorio
 ```markdown
